@@ -10,26 +10,26 @@
 
 - ⚕️ **AI-Prescription App** — A smart platform for doctors to generate prescriptions, digitally sign them, and share via QR codes.
 - 🔍 **FinditBack** — A lost & found platform to report and match items using photos, geolocation, and chat.
-- 🪙 **SwarajyaCoin (SWC)** — My own ERC-20 token for future blockchain experiments.
 - 🧠 **VTU Network** — A student community for sharing notes, resources, and Q&A under the VTU university system.
+- 📷 **Resolution** - A photo uploader for photopedic and tracking their views.
 
 ---
 
 ## 💼 Tech Stack
 
-- **Languages**: JavaScript, TypeScript, Dart, Python, Solidity
-- **Frameworks**: Node.js, Express.js, Flutter, React, Tailwind CSS
-- **Databases**: MongoDB, Firebase, PostgreSQL
-- **Tools**: Git, Docker, Socket.IO, GraphQL, IPFS, QR Code APIs
+- **Languages**: C/C++, Java, JavaScript, Dart, Python.
+- **Frameworks**: Node.js, Express.js, Flutter, React, Tailwind CSS, Tensorflow, pytorch, keras, scikit-learn.
+- **Databases**: MongoDB, Firebase, PostgreSQL, Vector DB.
+- **Tools**: Git, Docker, CI/CD, Socket.IO, GraphQL.
 
 ---
 
 ## 📈 Goals for 2025
 
-- 🧠 Build and train my own LLM
-- 🛡️ Learn ethical hacking and malware development (for research)
+- 🧠 Build my own LLM
 - 📱 Publish a production-ready Flutter app
-- 🌐 Launch a public dApp on Ethereum
+- 🧠 Want to become a goat in Machine learning
+- 📈 Mastering the art of problme-solving
 
 ---
 
