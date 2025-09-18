@@ -2,7 +2,7 @@
 
 🎓 I'm a Computer Science Engineering student at GM Institute of Technology.  
 🚀 Passionate about building impactful tech solutions, AI-powered apps, and full-stack development.  
-💡 I love turning ideas into working products and currently exploring Web3, ML, and real-time systems.
+💡 I love turning ideas into working products and currently exploring ML, and real-time systems.
 
 ---
 
